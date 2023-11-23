@@ -1,16 +1,24 @@
 {
   "files": {
     "main.css": "/weather-portal/static/css/main.1284e21a.css",
-    "main.js": "/weather-portal/static/js/main.30b7ba64.js",
+    "main.js": "/weather-portal/static/js/main.b364a85c.js",
     "static/js/787.01ad0775.chunk.js": "/weather-portal/static/js/787.01ad0775.chunk.js",
+    "static/media/rain.png": "/weather-portal/static/media/rain.c6dc9cb9e5adfaa158e1.png",
+    "static/media/shower_rain.png": "/weather-portal/static/media/shower_rain.5bf8854a4fc4304100b7.png",
+    "static/media/mist.png": "/weather-portal/static/media/mist.35ea297e1dcf74cb591a.png",
+    "static/media/few_clouds.png": "/weather-portal/static/media/few_clouds.c828f737c2cce8b22b5f.png",
+    "static/media/broken_clouds.png": "/weather-portal/static/media/broken_clouds.e527b29cb213b86758b0.png",
+    "static/media/snow.png": "/weather-portal/static/media/snow.d8082da66a8297e9f0fe.png",
+    "static/media/thunderstorm.png": "/weather-portal/static/media/thunderstorm.766c1642493e694404d1.png",
+    "static/media/clear_sky.png": "/weather-portal/static/media/clear_sky.49eff0967be903533c1a.png",
     "static/media/Inter-VariableFont_slnt,wght.ttf": "/weather-portal/static/media/Inter-VariableFont_slnt,wght.853e01975d2783d9fa29.ttf",
     "index.html": "/weather-portal/index.html",
     "main.1284e21a.css.map": "/weather-portal/static/css/main.1284e21a.css.map",
-    "main.30b7ba64.js.map": "/weather-portal/static/js/main.30b7ba64.js.map",
+    "main.b364a85c.js.map": "/weather-portal/static/js/main.b364a85c.js.map",
     "787.01ad0775.chunk.js.map": "/weather-portal/static/js/787.01ad0775.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1284e21a.css",
-    "static/js/main.30b7ba64.js"
+    "static/js/main.b364a85c.js"
   ]
 }
