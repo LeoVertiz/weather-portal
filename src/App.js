@@ -103,9 +103,9 @@ function App() {
     return iconPerCode[code];
   };
 
-  const [left, setLeft] = useState('-100%');
+  const [left, setLeft] = useState('-100vw');
   const toggleLeft = () => {
-    if(left === 0) setLeft('-100%');
+    if(left === 0) setLeft('-100vw');
     else setLeft(0);
   }
 
@@ -119,7 +119,7 @@ function App() {
 
   return (
     <div className='h-full flex relative' style={{minHeight: '100vh'}}>
-      <img className='background' src={`/images/${getImage()}`}/>
+      <img className='background' src={require(`./assets/images/${getImage()}`)}/>
       <div className='blur'></div>
 
       {
